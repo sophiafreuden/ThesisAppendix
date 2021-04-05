@@ -1,0 +1,24 @@
+---
+title: "Thesis Appendix"
+author: "Sophia Freuden"
+date: "4/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+library(imager)
+library(tidyverse)
+```
+
+<center><b>Figures for English Language Stories</b></center>
+
+<center>Soros</center>
+
+```{r, fig.align='center'}
+img1 <- load.image("all-soros/emo1.png")
+
+plot(img1, axes = FALSE, main = "Emotion Analysis")
+```
+
