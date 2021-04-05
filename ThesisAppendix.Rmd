@@ -16,7 +16,7 @@ library(tidyverse)
 
 <center>Soros</center>
 
-```{r, fig.align='center'}
+```{r, fig.align='center', fig.height=10, fig.width=10}
 img1 <- load.image("all-soros/emo1.png")
 
 plot(img1, axes = FALSE, main = "Emotion Analysis")
