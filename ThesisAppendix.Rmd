@@ -17,8 +17,20 @@ library(tidyverse)
 <center>Soros</center>
 
 ```{r, fig.align='center', fig.height=10, fig.width=10}
+img2 <- load.image("all-soros/all-soros.png")
+
+plot(img2, axes = FALSE, main = "Word Cloud")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
 img1 <- load.image("all-soros/emo1.png")
 
 plot(img1, axes = FALSE, main = "Emotion Analysis")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img3 <- load.image("all-soros/table1.png")
+
+plot(img3, axes = FALSE, main = "Sentiment Analysis")
 ```
 
