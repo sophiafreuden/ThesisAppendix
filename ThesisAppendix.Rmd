@@ -430,6 +430,123 @@ img62 <- load.image("all-soros/Russian/clinton.png")
 plot(img62, axes = FALSE, main = "")
 ```
 
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img63 <- load.image("all-soros/Russian/democracy.png")
+
+plot(img63, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img64 <- load.image("all-soros/Russian/elections2.png")
+
+plot(img64, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img65 <- load.image("all-soros/Russian/foreign4.png")
+
+plot(img65, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img66 <- load.image("all-soros/Russian/migrants2.png")
+
+plot(img66, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img67 <- load.image("all-soros/Russian/nato.png")
+
+plot(img67, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img68 <- load.image("all-soros/Russian/ngo2.png")
+
+plot(img68, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img69 <- load.image("all-soros/Russian/orban.png")
+
+plot(img69, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img70 <- load.image("all-soros/Russian/party.png")
+
+plot(img70, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img71 <- load.image("all-soros/Russian/ukraine3.png")
+
+plot(img71, axes = FALSE, main = "")
+```
+
+<center><h2>Clinton</h2></center>
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img72 <- load.image("all-clinton/Russian/all-clinton.png")
+
+plot(img56, axes = FALSE, main = "Word Cloud")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img73 <- load.image("all-clinton/Russian/table1.png")
+
+plot(img73, axes = FALSE, main = "Sentiment Analysis")
+```
+
+<center><h3>Frequency Plots for Individual Terms</h3></center>
+<center>Images ordered as terms discussed in thesis.</center>
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img74 <- load.image("all-clinton/Russian/democracy.png")
+
+plot(img74, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img75 <- load.image("all-clinton/Russian/eu.png")
+
+plot(img75, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img76 <- load.image("all-clinton/Russian/france.png")
+
+plot(img76, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img77 <- load.image("all-clinton/Russian/media.png")
+
+plot(img77, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img78 <- load.image("all-clinton/Russian/nato.png")
+
+plot(img78, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img79 <- load.image("all-clinton/Russian/putin.png")
+
+plot(img79, axes = FALSE, main = "")
+```
+
+```{r, fig.align='center', fig.height=10, fig.width=10}
+img80 <- load.image("all-clinton/Russian/soros.png")
+
+plot(img80, axes = FALSE, main = "")
+```
+
+
+
+
+
 
 
 
